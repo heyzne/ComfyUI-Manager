@@ -49797,9 +49797,9 @@
       "description": "This is a node to convert an image into a CMYK Halftone dot image."
     },
     {
-      "author": "ainiyisiwan",
-      "title": "ComfyUI MixLab Nodes V2",
-      "reference": "https://github.com/ainiyisiwan/comfyui-mixlab-nodes-v2",
+      "author": "heyzne",
+      "title": "comfyui-mixlab-nodes-v2",
+      "reference": "https://github.com/heyzne/comfyui-mixlab-nodes-v2",
       "files": [
         "https://github.com/ainiyisiwan/comfyui-mixlab-nodes-v2"
       ],
