@@ -49801,10 +49801,20 @@
       "title": "comfyui-mixlab-nodes-v2",
       "reference": "https://github.com/heyzne/comfyui-mixlab-nodes-v2",
       "files": [
-        "https://github.com/ainiyisiwan/comfyui-mixlab-nodes-v2"
+        "https://github.com/heyzne/comfyui-mixlab-nodes-v2"
       ],
       "install_type": "git-clone",
       "description": "Modern rewrite of MixLab nodes. Fixes drag-and-drop on ComfyUI v0.21.0+. Features: image drag-and-drop, workflow extraction from PNG, batch loading, text-to-image, masked composite, save with metadata."
+    },
+    {
+      "author": "heyzne",
+      "title": "comfyui-Zn-translation",
+      "reference": "https://github.com/heyzne/comfyui-Zn-translation",
+      "files": [
+        "https://github.com/heyzne/comfyui-Zn-translation"
+      ],
+      "install_type": "git-clone",
+      "description": "Fix the translation issues of the comfyui interface."
     }
   ]
 }
